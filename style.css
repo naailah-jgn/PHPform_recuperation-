@@ -61,4 +61,9 @@ form {
        entre les étiquettes et les champs texte */
     margin-left: .5em;
   }
+
+  .response>h1>article{
+    border: 5px solid #CCC;
+    border-radius: 1em;
+  }
   
